@@ -1,7 +1,7 @@
 # QR Generator 
 Hola! Este script de python puede guardar un texto (ya sea un texto normal o un link) en un código QR de manera muy sencilla 
 
-
+![](img src="images/banner.png")
 
 ## Instrucciones 
 
