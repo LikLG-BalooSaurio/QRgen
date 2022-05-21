@@ -19,7 +19,7 @@ Hola! Este script de python puede guardar un texto (ya sea un texto normal o un 
 
     apt install python3
     apt install git
-    git clone https://github.com/LikLG-BalooSaurio/PipInst
-    cd PipInst
+    git clone https://github.com/LikLG-BalooSaurio/QRgen
+    cd QRgen
     python3 -m pip install -r requirements.txt
     python3 pipinst.py
